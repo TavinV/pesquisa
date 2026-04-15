@@ -142,7 +142,14 @@ Dessa forma, organizações que adotam boas práticas de segurança conseguem ga
 
 ## REFERÊNCIAS
 
-- Stallings, W.; Brown, L. *Computer Security: Principles and Practice*  
-- Whitman, M.; Mattord, H. *Principles of Information Security*  
-- Kim, D.; Solomon, M. *Fundamentals of Information Systems Security*  
+Bibliografia
+DAVID KIM, Michael G. Solomon. Fundamentals of Information Systems Security. [S.l.: S.n.].
+
+
+MATTORD MICHAEL WHITMAN, Herbert. Principles of Information Security. [S.l.: S.n.].
+
+
+WILLIAM STALLINGS, Lawrie Brown. Segurança de Computadores: Princípios e Práticas (Computer Security: Principles and Practice). [S.l.: S.n.].
+
+
 - LGPD — Lei nº 13.709/2018
